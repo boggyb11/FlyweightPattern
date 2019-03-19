@@ -1,0 +1,11 @@
+C:\Users\benjamin_fitzpatrick\source\repos\FlyweightPattern\FlyweightPattern\bin\Debug\netcoreapp2.1\FlyweightPattern.deps.json
+C:\Users\benjamin_fitzpatrick\source\repos\FlyweightPattern\FlyweightPattern\bin\Debug\netcoreapp2.1\FlyweightPattern.runtimeconfig.json
+C:\Users\benjamin_fitzpatrick\source\repos\FlyweightPattern\FlyweightPattern\bin\Debug\netcoreapp2.1\FlyweightPattern.runtimeconfig.dev.json
+C:\Users\benjamin_fitzpatrick\source\repos\FlyweightPattern\FlyweightPattern\bin\Debug\netcoreapp2.1\FlyweightPattern.dll
+C:\Users\benjamin_fitzpatrick\source\repos\FlyweightPattern\FlyweightPattern\bin\Debug\netcoreapp2.1\FlyweightPattern.pdb
+C:\Users\benjamin_fitzpatrick\source\repos\FlyweightPattern\FlyweightPattern\obj\Debug\netcoreapp2.1\FlyweightPattern.csprojAssemblyReference.cache
+C:\Users\benjamin_fitzpatrick\source\repos\FlyweightPattern\FlyweightPattern\obj\Debug\netcoreapp2.1\FlyweightPattern.csproj.CoreCompileInputs.cache
+C:\Users\benjamin_fitzpatrick\source\repos\FlyweightPattern\FlyweightPattern\obj\Debug\netcoreapp2.1\FlyweightPattern.AssemblyInfoInputs.cache
+C:\Users\benjamin_fitzpatrick\source\repos\FlyweightPattern\FlyweightPattern\obj\Debug\netcoreapp2.1\FlyweightPattern.AssemblyInfo.cs
+C:\Users\benjamin_fitzpatrick\source\repos\FlyweightPattern\FlyweightPattern\obj\Debug\netcoreapp2.1\FlyweightPattern.dll
+C:\Users\benjamin_fitzpatrick\source\repos\FlyweightPattern\FlyweightPattern\obj\Debug\netcoreapp2.1\FlyweightPattern.pdb
